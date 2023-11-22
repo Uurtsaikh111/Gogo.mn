@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1115px;
+  margin: auto;
+}
+
+.header {
+  background-color: aqua;
+  height: 60px;
+  margin-bottom: 50px;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+.h_logo {
+  width: 40px;
+  background-color: black;
+}
+.h_list {
+  width: 400px;
+  background-color: black;
+}
+.h_news {
+  width: 200px;
+  background-color: black;
+}
+.Reclam_cards {
+  height: 350px;
+  background-color: aquamarine;
+  margin-bottom: 30px;
+}
+.News_cards {
+  height: 280px;
+  background-color: bisque;
+  margin-bottom: 40px;
+}
+.Gogo_story {
+  height: 280px;
+  background-color: bisque;
+  margin-bottom: 40px;
+}
+.Part2 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.Today_news {
+  height: 600px;
+  width: 700px;
+  background-color: blueviolet;
+}
+.Especial_news {
+  height: 400px;
+  width: 300px;
+  background-color: brown;
+}
+.Interview {
+  height: 380px;
+  background-color: rgb(65, 11, 214);
+  margin-bottom: 40px;
+}
+.Gogo_style {
+  height: 350px;
+  background-color: black;
+  margin-bottom: 40px;
+}
+.Technology {
+  height: 250px;
+  background-color: rgb(157, 97, 97);
+  margin-bottom: 40px;
+}
+.Comik {
+  height: 250px;
+  background-color: rgb(119, 6, 6);
+  margin-bottom: 40px;
+}
+.Watch {
+  height: 450px;
+  background-color: rgb(26, 2, 2);
+  margin-bottom: 40px;
+}
+.Help {
+  height: 200px;
+  background-color: rgb(233, 133, 133);
+  margin-bottom: 40px;
+}
+.Social {
+  height: 200px;
+  background-color: rgb(73, 65, 65);
+  margin-bottom: 40px;
+}
